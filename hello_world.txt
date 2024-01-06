@@ -1,0 +1,5 @@
+Hello, world!
+
+Today, January 06 2024, I am starting my journey in learning web development through The Odin Project.
+
+Happy coding!
